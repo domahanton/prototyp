@@ -38,3 +38,47 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
+body {
+	margin-left: 53px;
+}
+.first {
+	margin: 53px 0  50px;
+	width: 611px;
+	line-height: 25px;
+}
+
+.short-left-string {
+	display: block;
+}
+.first-left-link {
+	display: block;
+	margin-bottom: 32px;
+
+}
+.widht {
+	width: 1145px;
+	margin: 0 41px 34px 0;
+	line-height: 25px;
+
+
+}
+.short-left {
+	display:inline-block;
+	width: 241px;
+}
+.middle-string {
+	display:inline-block;
+	margin-bottom: 35px;
+}
+
+.start-left {
+	display:inline-block;
+	width: 503px;
+}
+.link-right {
+	display: inline-block;
+}
+.block {
+	display: block;
+	padding: 50px 0;
+}
